@@ -1,0 +1,22 @@
+{
+  "wheel_id": 683,
+  "structure": "umbrella",
+  "slug": "stanthorpe4380-103",
+  "project": "business-directory-stanthorpe-pros-and-cons-4f5bd7358873ee50141",
+  "parent_t1_ref": "stanthorpe4380-151",
+  "node_role": "feeder",
+  "money_target": "stanthorpe4380.com.au",
+  "primary_kw": "business directory stanthorpe pros and cons",
+  "intended_url": "https://sites-e470-2.web.app/business-directory-stanthorpe-pros-and-cons-4f5bd7358873ee50141/",
+  "tier": "T2",
+  "writeback_nonce": "ddc0d474392e35b7",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/business-directory-stanthorpe-90f354af33ab827a154eaddd5448926ea/",
+      "anchor": "https://aumedia.neocities.org/business-directory-stanthorpe-90f354af33ab827a154eaddd5448926ea/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
